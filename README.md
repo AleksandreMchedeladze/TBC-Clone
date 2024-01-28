@@ -7,6 +7,5 @@ Biggest flaw i have is i couldn't make it Responsive. So it's terrible when the 
 
 ##How to see the project.
 
-1. Download the zip file.
-2. Unzip
-3. Open the code on any browser.
+1. Download the zip file and unzip.
+2. Open the code on any browser.
